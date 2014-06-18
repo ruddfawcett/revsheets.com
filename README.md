@@ -1,6 +1,8 @@
 revsheets.com
 ==================
 
+![](https://s3.amazonaws.com/f.cl.ly/items/2G0Q0S0y131Z2C1f0Y47/Screen%20Shot%202014-06-17%20at%2010.48.04%20PM.png)
+
 ##Ramblings
 
 This is my first "major" website, and my first time truly working with PHP, MySQL, PDO, and other web technologies.  It is just vanilla PHP, Bootstrap, some JavaScript, and then just HTML and some (but little) custom CSS.
